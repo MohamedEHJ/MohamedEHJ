@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873032c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/github.svg"/>
 <img align="left" alt="cplusplus" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/java.svg" />
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/python.svg" />
