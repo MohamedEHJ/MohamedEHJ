@@ -1,4 +1,4 @@
-### - 🏮 Hi there! I am in the last year of my bachelor's degree in Computer Science.
+### - 🏮 Hi there! I am in my final year of my bachelor's degree in Computer Science.
 
 ### Connect with me:
 
@@ -17,8 +17,8 @@
 <img align="left" alt="cplusplus" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/java.svg" />
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/python.svg" />
-<img align="left" alt="tensorflow" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/postgresql.svg" />
-<img align="left" alt="maven" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cisco.svg" />
+<img align="left" alt="Pgsql" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/postgresql.svg" />
+<img align="left" alt="Cisco" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cisco.svg" />
 
 
 
