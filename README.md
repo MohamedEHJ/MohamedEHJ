@@ -1,4 +1,4 @@
-### - 🏮 Hi there! I am in my final year of my bachelor's degree in Computer Science.
+### - 🏮 Hi there!
 
 ### Connect with me:
 
