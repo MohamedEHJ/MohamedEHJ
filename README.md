@@ -20,6 +20,7 @@
 <img align="left" alt="Pgsql" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/postgresql.svg" />
 <img align="left" alt="Cisco" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cisco.svg" />
 <img align="left" alt="raspberry" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/raspberrypi.svg" />
+<img align="left" alt="powersgell" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/PowerShell.svg" />
 
 
 
