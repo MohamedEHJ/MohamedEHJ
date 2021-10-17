@@ -30,13 +30,8 @@
 
 ---
 
-
-### <details>
-###   <summary>:zap: GitHub Stats</summary>
-
-###   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MohamedEHJ&show_icons=true&hide_border=true" />
-
-### </details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 [linkedin]: https://www.linkedin.com/in/mohamed-elh/
