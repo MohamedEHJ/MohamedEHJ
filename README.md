@@ -2,7 +2,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     █████████████████████████████████▓░░░░░░░   82.15 % 
+Markdown   ███████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ```
 <!--END_SECTION:waka-->
 
