@@ -4,7 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python                     █████████████████████▓░░░   86.71 %
+Markdown                   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Other                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
