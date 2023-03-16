@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust                       ████████████████████████▒   96.90 %
-Markdown                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
