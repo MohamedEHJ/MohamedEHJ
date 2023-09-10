@@ -55,9 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript                   █████████████████████░░░░   83.43 %
-Prolog                         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Assembly                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
