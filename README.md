@@ -55,8 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                    ███████████████████▒░░░░░   76.89 %
-Prolog                   █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
