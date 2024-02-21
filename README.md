@@ -55,8 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                   ██████████████▓░░░░░░░░░░   58.67 %
-Prisma                       ██████████▒░░░░░░░░░░░░░░   41.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
