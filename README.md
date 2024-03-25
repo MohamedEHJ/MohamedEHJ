@@ -55,7 +55,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js                       ███████████████████████▓░   95.04 %
+JavaScript                   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
