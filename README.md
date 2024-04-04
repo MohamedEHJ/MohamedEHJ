@@ -55,7 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                   ████████████░░░░░░░░░░░░░   48.30 %
+XML                    ██████████▒░░░░░░░░░░░░░░   41.84 %
+JSON                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
 ```
 
 <!--END_SECTION:waka-->
