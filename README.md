@@ -55,9 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                         ██████████████▓░░░░░░░░░░   58.72 %
-JavaScript                   █████████▓░░░░░░░░░░░░░░░   38.90 %
-Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
